@@ -1,4 +1,5 @@
 {
+  "version": "1.13.2-b",
   "name": "inliner",
   "description": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites",
   "homepage": "http://github.com/remy/inliner",
